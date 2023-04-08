@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "global-deploy": "git+https://etranzactapps:YEtrgB7yUyy8YLGzJv2e@bitbucket.org/etranzactapps/global-deploy.git"
+  }
+}
